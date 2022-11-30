@@ -3,7 +3,7 @@
 Projects Link: 
 https://crickbuzz-cryptocurrency-tracker-app.netlify.app/
 
-
+![crickbuzz-cryptocurrency-tracker-app netlify app_](https://user-images.githubusercontent.com/76960865/204884697-81470b44-55e9-4015-a50b-2cc4cca979aa.png)
 
 ### `npm start`
 
